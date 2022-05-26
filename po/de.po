@@ -760,7 +760,7 @@ msgstr "Keine Dateien"
 
 #. TRANSLATORS: there are no updates, so nothing to do
 msgid "No packages require updating to newer versions."
-msgstr "Keine Pakete benötigen eine Aktualisierung zu eine neueren Version."
+msgstr "Keine Pakete benötigen eine Aktualisierung zu einer neueren Version"
 
 #. TRANSLATORS: we couldn't find anything
 msgid "No packages were found"
